@@ -1,0 +1,98 @@
+{
+  "ahmadDefensive" : [],
+  "ahmadLosing" : [],
+  "ahmadNegative" : [],
+  "ahmadOffensive" : [],
+  "ahmadPositive" : [],
+  "ahmadWinning" : [],
+  "angiDefensive" : [],
+  "angiLosing" : [],
+  "angiNegative" : [],
+  "angiOffensive" : [],
+  "angiPositive" : [],
+  "angiWinning" : [],
+  "benDefensive" : [],
+  "benLosing" : [],
+  "benNegative" : [],
+  "benOffensive" : [],
+  "benPositive" : [],
+  "benWinning" : [],
+  "bobDefensive" : [],
+  "bobLosing" : [],
+  "bobNegative" : [],
+  "bobOffensive" : [],
+  "bobPositive" : [],
+  "bobWinning" : [],
+  "hamidDefensive" : [],
+  "hamidLosing" : [],
+  "hamidNegative" : [],
+  "hamidOffensive" : [],
+  "hamidPositive" : [],
+  "hamidWinning" : [],
+  "hugoDefensive" : [],
+  "hugoLosing" : [],
+  "hugoNegative" : [],
+  "hugoOffensive" : [],
+  "hugoPositive" : [],
+  "hugoWinning" : [],
+  "kristinaDefensive" : [],
+  "kristinaLosing" : [],
+  "kristinaNegative" : [],
+  "kristinaOffensive" : [],
+  "kristinaPositive" : [],
+  "kristinaWinning" : [],
+  "nickDefensive" : [
+    ""
+  ],
+  "nickLosing" : [
+    ""
+  ],
+  "nickNegative" : [
+    ""
+  ],
+  "nickOffensive" : [
+    ""
+  ],
+  "nickPositive" : [
+    ""
+  ],
+  "nickWinning" : [
+    ""
+  ],
+  "obamaDefensive" : [
+    ""
+  ],
+  "obamaLosing" : [
+    ""
+  ],
+  "obamaNegative" : [
+    ""
+  ],
+  "obamaOffensive" : [
+    ""
+  ],
+  "obamaPositive" : [
+    ""
+  ],
+  "obamaWinning" : [
+    ""
+  ],
+  "stephenDefensive" : [],
+  "stephenLosing" : [],
+  "stephenNegative" : [],
+  "stephenOffensive" : [],
+  "stephenPositive" : [],
+  "stephenWinning" : [],
+  "unDefensive" : [],
+  "unLosing" : [],
+  "unNegative" : [],
+  "unOffensive" : [],
+  "unPositive" : [],
+  "unWinning" : [],
+  "vladDefensive" : [],
+  "vladLosing" : [],
+  "vladNegative" : [],
+  "vladOffensive" : [],
+  "vladPositive" : [],
+  "vladWinning" : []
+}
